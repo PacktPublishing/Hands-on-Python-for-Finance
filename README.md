@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/hands-on-python-for-finance-video/9781789800975)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Hands-On Python for Finance
 
 <a href="https://prod.packtpub.com/in/big-data-and-business-intelligence/hands-python-finance#utm_source=github&utm_medium=repository&utm_campaign=9781789346374"><img src="https://prod.packtpub.com/media/catalog/product/cache/a22c7d190d97ca25f5f1089471ab8502/b/1/b11180_mockupcover.png" alt="Hands-On Python for Finance" height="256px" align="right"></a>
